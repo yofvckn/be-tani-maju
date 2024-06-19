@@ -10,7 +10,7 @@ In order to run this project locally, simply fork and clone the repository main 
 In the terminal
 
 ```
-$ cd capstone-tani-maju
+$ cd be-tani-maju
 $ npm install
 $ npm run dev
 ```
